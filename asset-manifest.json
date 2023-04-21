@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/bank-of-react-example-code-gh-pages/static/css/main.01e685fb.css",
-    "main.js": "/bank-of-react-example-code-gh-pages/static/js/main.acc37143.js",
-    "static/js/787.6058ec00.chunk.js": "/bank-of-react-example-code-gh-pages/static/js/787.6058ec00.chunk.js",
-    "index.html": "/bank-of-react-example-code-gh-pages/index.html",
-    "main.01e685fb.css.map": "/bank-of-react-example-code-gh-pages/static/css/main.01e685fb.css.map",
-    "main.acc37143.js.map": "/bank-of-react-example-code-gh-pages/static/js/main.acc37143.js.map",
-    "787.6058ec00.chunk.js.map": "/bank-of-react-example-code-gh-pages/static/js/787.6058ec00.chunk.js.map"
+    "main.css": "/my-react-app/static/css/main.01e685fb.css",
+    "main.js": "/my-react-app/static/js/main.285ffd1f.js",
+    "static/js/787.6058ec00.chunk.js": "/my-react-app/static/js/787.6058ec00.chunk.js",
+    "index.html": "/my-react-app/index.html",
+    "main.01e685fb.css.map": "/my-react-app/static/css/main.01e685fb.css.map",
+    "main.285ffd1f.js.map": "/my-react-app/static/js/main.285ffd1f.js.map",
+    "787.6058ec00.chunk.js.map": "/my-react-app/static/js/787.6058ec00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01e685fb.css",
-    "static/js/main.acc37143.js"
+    "static/js/main.285ffd1f.js"
   ]
 }
